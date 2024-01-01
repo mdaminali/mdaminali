@@ -4,9 +4,7 @@
 
 ### 🧑 About Me:
 I am amin and a web developer and UI/UX designer. Last 6 years I am working on React, WordPress, Next.js, PHP, Bootstrap. In this time I made Live call monitoring dashboard, many branding website, Recruitment website, News site, Blogging website etc.
-Currently, I'm open to work and employment opportunities.
-- 📫 I am just one mail away - [aminmithun1992@gmail.com]
-
+**I'm open to work and employment opportunities. I am just one mail away - [aminmithun1992@gmail.com]**
 
 ### 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
