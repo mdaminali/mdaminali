@@ -24,8 +24,8 @@ I am amin and a web developer and UI/UX designer. Last 6 years I am working on R
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aminmithun&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aminmithun&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mdaminali&show_icons=true&locale=en)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmithun&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=aminmithun&icon=0&color=0)](https://visitcount.itsvg.in)
