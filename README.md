@@ -1,6 +1,6 @@
 ### Hi there 👋, Nice to see you.
 
-![I am a Web Developer and UI/UX Designer](https://media.licdn.com/dms/image/D4D16AQGmmBdTHZkD8A/profile-displaybackgroundimage-shrink_350_1400/0/1704014238235?e=1709769600&v=beta&t=2q-r0-F7Uu10ZY9rD0NkXTIc1Rjir_p5ouslE0_t19o)
+![I am a Web Developer and UI/UX Designer](https://media.licdn.com/dms/image/v2/D4D16AQGmmBdTHZkD8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704014238235?e=1747267200&v=beta&t=tDuUu8cCRqnk1yOUXoTiibdzUc3GVfsmJzscJvltEfU)
 
 ### 🧑 About Me:
 I am amin and a web developer and UI/UX designer. Last 6 years I am working on React, WordPress, Next.js, PHP, Bootstrap. In this time I made Live call monitoring dashboard, many branding website, Recruitment website, News site, Blogging website etc. </br>
