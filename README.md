@@ -23,11 +23,13 @@ I am amin and a web developer and UI/UX designer. Last 6 years I am working on R
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
----
+
 ### 🔍 Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminmithun/) 
 [![Website](https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=website&logoColor=white)](https://aminmithun.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aminmithunbd)
+
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact)<br/>
