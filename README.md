@@ -35,7 +35,6 @@ I am amin and a web developer and UI/UX designer. Last 6 years I am working on R
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=mdaminali&show_icons=true&locale=en"/></td>
-    <td><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=aminmithun&icon=0&color=0"/></a></td>
   </tr>
 </table>
 
