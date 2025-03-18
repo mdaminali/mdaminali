@@ -29,12 +29,14 @@ I am amin and a web developer and UI/UX designer. Last 6 years I am working on R
 [![Website](https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=website&logoColor=white)](https://aminmithun.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aminmithunbd)
 
----
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mdaminali&show_icons=true&locale=en)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=aminmithun&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mdaminali&show_icons=true&locale=en"/></td>
+    <td><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=aminmithun&icon=0&color=0"/></a></td>
+  </tr>
+</table>
 
 
