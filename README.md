@@ -25,8 +25,8 @@ I am amin and a web developer and UI/UX designer. Last 6 years I am working on R
 
 
 ### 🔍 Where to find me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminmithun/) 
-[![Website](https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=website&logoColor=white)](https://aminmithun.netlify.app/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amincse/) 
+[![Website](https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=website&logoColor=white)](https://mdaminali.github.io/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aminmithunbd)
 
 
