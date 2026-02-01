@@ -54,17 +54,53 @@ I am a dedicated **Web Developer** and **UI/UX Designer** with a passion for bui
 
 ---
 
-### 📊 GitHub Stats
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mdaminali">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdaminali&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mdaminali">
+          <img align="center" src="https://streak-stats.demolab.com?user=mdaminali&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mdaminali">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mdaminali">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mdaminali&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaminali&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></td>
-    </tr>
-  </table>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdaminali&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
 ---
 
 ### 🔍 Where to find me
